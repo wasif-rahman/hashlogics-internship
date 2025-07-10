@@ -1,30 +1,28 @@
-# 🌐 Odin Landing Page
+# 🚀 Hashlogics Internship Progress
 
-This is my **Week 1 project** for the internship at **Hashlogics**.  
-It’s a basic landing page built using **HTML and CSS** as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
-
----
-
-## 🛠️ Tech Used
-
-- HTML5
-- CSS3
-- Git & GitHub
+Welcome to my internship journal and weekly progress at **Hashlogics** 💼  
+This repository contains all my work, practice, and projects — week by week.
 
 ---
 
-## 🔗 Live Preview
+## 📅 Weekly Progress
 
-👉 [Click here to view the live page](https://wasif-rahman.github.io/odin-landing-page/)
+### ✅ Week 1 – Landing Page Project
+
+- 📂 Folder: `Week_One/odin-landing-page/`
+- 💻 Skills: HTML, CSS, Git, GitHub
+- 🔗 Live Link: [Odin Landing Page](https://wasif-rahman.github.io/odin-landing-page/)
+- 📘 Description: Built a simple landing page using basic HTML & CSS as part of [The Odin Project](https://www.theodinproject.com/)
 
 ---
-
 
 ## 📁 Folder Structure
 
 ```bash
-odin-landing-page/
-├── index.html
-├── styles.css
-├── README.md
-
+hashlogics-internship/
+├── Week_One/
+│   └── odin-landing-page/
+│       ├── index.html
+│       ├── styles.css
+│       └── README.md
+├── README.md  <-- (you are here)
