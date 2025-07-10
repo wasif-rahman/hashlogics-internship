@@ -10,8 +10,7 @@ I built a basic landing page using only HTML and CSS — no frameworks!
 - Created a responsive, clean landing page from scratch
 
 ## 🚀 Live Demo
-(Link will be added after GitHub Pages is set up)
-
+https://wasif-rahman.github.io/odin-landing-page/
 ---
 
 🖤 Built with love and caffeine by Wasif.
